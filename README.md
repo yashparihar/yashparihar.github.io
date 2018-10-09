@@ -1,6 +1,9 @@
 #Yash Parihar
 ## Full Stack Dev | DS King | Loves Reacting things
 
+# Here's Awesome me:
+
+
 # My Projects
 
 1. [yashparihar.github.io](https://github.com/yashparihar/yashparihar.github.io)
@@ -28,5 +31,3 @@
 23 [fcc-project-tutorials](https://github.com/yashparihar/fcc-project-tutorials)
 24.[my_demo_pwa](https://github.com/yashparihar/my_demo_pwa)
 25.[spin](https://github.com/yashparihar/spin)
-
-
