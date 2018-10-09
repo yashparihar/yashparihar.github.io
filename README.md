@@ -1,7 +1,7 @@
 #Yash Parihar
 ## Full Stack Dev | DS King | Loves Reacting things
 
-#My Projects
+# My Projects
 
 1. yashparihar.github.io	https://github.com/yashparihar/yashparihar.github.io
 2. productComparision	https://github.com/yashparihar/productComparision
