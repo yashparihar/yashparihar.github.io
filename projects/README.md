@@ -1,1 +1,1 @@
-This list my projects done during College time to internship
+This list my projects done during College time and internship 
