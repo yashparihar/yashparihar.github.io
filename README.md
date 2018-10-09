@@ -1,4 +1,4 @@
-#Yash Parihar
+# Yash Parihar - Reactwala
 # Full Stack Dev | DS King | Loves Reacting things
 
 ## Here's Awesome me:
