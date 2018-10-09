@@ -1,8 +1,8 @@
 #Yash Parihar
-## Full Stack Dev | DS King | Loves Reacting things
+# Full Stack Dev | DS King | Loves Reacting things
 
-# Here's Awesome me:
-
+## Here's Awesome me:
+![Yash Parihar's Official Logo](yashparihar.github.io/assets/3f2a313a-8c3b-4311-87fa-b36cc31db8e4.jpg "Yash Parihar's Official Logo")
 
 # My Projects
 
