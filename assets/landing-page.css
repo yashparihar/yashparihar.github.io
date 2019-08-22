@@ -129,14 +129,14 @@ section#posts {
 section#posts svg {
     fill: #4C9ED9;
 }
-section#posts ul {
+section#projects ul {
     list-style: none;
     padding: 0;
 }
-section#posts li {
+section#projects li {
     margin-bottom: 1em;
 }
-section#posts time {
+section#projects time {
     font-size: small;
     display: block;
 }
