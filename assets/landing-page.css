@@ -81,7 +81,7 @@ section#main div {
 section#main img {
     /* round image with proportional size of 200px max */
     border-radius: 50%;
-    max-width: 250px;
+    max-width: 270px;
     width: 200px;
     width: 28vw;
 
@@ -166,6 +166,6 @@ section#contact svg {
         font-size: 2.8vw;
     }
     section#main a{
-        font-size: 2.2vw;
+        font-size: 4vw;
     }
 }
